@@ -1,0 +1,204 @@
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\appsettings.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\omnisharp.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Projeto.staticwebassets.runtime.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Projeto.exe
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Projeto.deps.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Projeto.runtimeconfig.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Projeto.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\ref\Projeto.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Projeto.pdb
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\Projeto.AssemblyInfo.cs
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\Projeto.RazorAssemblyInfo.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\Projeto.RazorAssemblyInfo.cs
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\scopedcss\bundle\Projeto.styles.css
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\scopedcss\projectbundle\Projeto.bundle.scp.css
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\Projeto.csproj.CopyComplete
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\Projeto.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\ref\Projeto.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\Projeto.pdb
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\Projeto\obj\Debug\net6.0\Projeto.genruntimeconfig.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\appsettings.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\omnisharp.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Projeto.staticwebassets.runtime.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Projeto.exe
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Projeto.deps.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Projeto.runtimeconfig.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Projeto.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\ref\Projeto.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Projeto.pdb
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\Projeto.AssemblyInfo.cs
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\Projeto.RazorAssemblyInfo.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\Projeto.RazorAssemblyInfo.cs
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\scopedcss\bundle\Projeto.styles.css
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\scopedcss\projectbundle\Projeto.bundle.scp.css
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\Projeto.csproj.CopyComplete
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\Projeto.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\ref\Projeto.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\Projeto.pdb
+C:\Users\Richardhershon\Documents\CURSOS TI\Projeto_Site_Method\ProjetoV2\obj\Debug\net6.0\Projeto.genruntimeconfig.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\appsettings.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\omnisharp.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Projeto.staticwebassets.runtime.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Projeto.exe
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Projeto.deps.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Projeto.runtimeconfig.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Projeto.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\ref\Projeto.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Projeto.pdb
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\Projeto.AssemblyInfo.cs
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\Projeto.RazorAssemblyInfo.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\Projeto.RazorAssemblyInfo.cs
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\scopedcss\bundle\Projeto.styles.css
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\scopedcss\projectbundle\Projeto.bundle.scp.css
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\Projeto.csproj.CopyComplete
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\Projeto.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\ref\Projeto.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\Projeto.pdb
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\Projeto.genruntimeconfig.cache

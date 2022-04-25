@@ -1,0 +1,26 @@
+@model Produto
+
+<div class="col-sm-4 col-md-4 col-lg-6">
+    
+    <p><img src="@Url.Content(Model.Imagem)" class=" img-fluid " alt="@Model.Nome" /></p>
+    
+    
+    <div class="figure-caption">
+        <h4 class="formPullRightButton">@Model.Preco.ToString("c")</h4>
+        <h4>
+            @* asp-route-produtoId é o produtId passado como parametro em Details *@
+            <a asp-controller="Produto" asp-action="Details"
+                asp-route-produtoId="@Model.ProdutoId">@Model.Nome</a>
+        </h4>
+        <h6>@Model.DescricaoCurta</h6>
+    </div>
+    <div text-right">
+        <p class="formPullRightButton">
+            
+            <a class="btn btn-primary" asp-controller="CarrinhoCompra" asp-action="AdicionarItemNoCarrinhoCompra"
+                asp-route-produtoId="@Model.ProdutoId">
+                Incluir no Carrinho
+            </a>
+        </p>
+    </div>
+</div>

@@ -1,0 +1,44 @@
+@model Pedido
+
+<div class="container marginTop1">
+
+    <div class="jumbotron">
+        <h2>@ViewBag.CheckoutCompletoMensagem</h2>
+    </div>
+    <div class="card">
+        <div class="card-body">
+            <p>Cliente : <strong>@Model.Nome</strong>
+            <p>Data do Pedido : <strong>@Model.PedidoEnviado</strong>
+            <p>Número do Pedido : <strong>@Model.PedidoId</strong></p>
+            <table class="table">
+                <tr>
+                    <th></th>
+                    <th>Quantidade</th>
+                    <th>Lanche</th>
+                    <th>Preço</th>
+                </tr>
+                @foreach (var item in Model.PedidoItens)
+                        {
+                    <tr>
+                        <td><img src="@Url.Content(item.Produto.Imagem)" width="40" height="40" /></td>
+                        <td>@item.Quantidade</td>
+                        <td>@item.Produto.Nome</td>
+                        <td>@item.Produto.Preco.ToString("C2")</td>
+                    </tr>
+                        }
+            </table>
+            <tr>
+                <h4>Valor do Frete: @((ViewBag.FreteTotal).ToString("C2"))</h4>
+            </tr>
+            <tr>
+                <h4>Valor Total do Pedido: <strong>@(((decimal)ViewBag.TotalPedido).ToString("C2"))</strong></h4>
+            </tr>
+            <h3>Valor Final Pago: <strong>@((ViewBag.ValorFinal).ToString("C2"))</strong></h3>
+        </div>
+    </div>
+</div>
+<div class="form-group" style="text-align :center">
+    <h3>
+        <a class="nav-link text-info" asp-controller="Home" asp-action="Index">Retornar</a>
+    </h3>
+</div>
