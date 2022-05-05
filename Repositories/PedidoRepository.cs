@@ -25,7 +25,7 @@ namespace Projeto.Repositories {
         public void CriarPedido(Pedido pedido) {
 
             pedido.PedidoEnviado = DateTime.Now;
-            //pedido.PedidoEntregueEm = DateTime.Now;
+            pedido.PedidoEntregueEm = DateTime.Now;
 
             _appDbContext.Pedidos.Add(pedido);
             _appDbContext.SaveChanges();

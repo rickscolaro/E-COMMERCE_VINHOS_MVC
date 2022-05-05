@@ -125,9 +125,11 @@ namespace Projeto.Models {
             return total;
         }
 
+
+        // Método de calculo do frete
         public double GetFreteTotal() {
 
-            var distancia = 250;
+            var distancia = 250;// Distancia total do pedido
 
             var frete = _context.CarrinhoCompraItens.Where(c => c.CarrinhoCompraId == CarrinhoCompraId)
                     .Select(c => c.Produto.Peso * c.Quantidade).Sum();
@@ -139,6 +141,8 @@ namespace Projeto.Models {
             }
             return frete;
         }
+
+
 
         public double GetValorFinal() {
 

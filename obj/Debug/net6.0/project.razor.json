@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Projeto.csproj",
+  "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Projeto.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16332,213 +16332,218 @@
   "RootNamespace": "Projeto",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminPedidos\\Details.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\AdminPedidos\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminCategorias\\Edit.cshtml",
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminCategorias\\Edit.cshtml",
       "TargetPath": "Areas\\Admin\\Views\\AdminCategorias\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\CarrinhoCompra\\Index.cshtml",
-      "TargetPath": "Views\\CarrinhoCompra\\Index.cshtml",
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\CarrinhoCompra\\ErroEstoque.cshtml",
+      "TargetPath": "Views\\CarrinhoCompra\\ErroEstoque.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminPedidos\\PedidoNotFound.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\AdminPedidos\\PedidoNotFound.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminProdutos\\Edit.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\AdminProdutos\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\Admin\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminCategorias\\Index.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\AdminCategorias\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Pedido\\Checkout.cshtml",
-      "TargetPath": "Views\\Pedido\\Checkout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminPedidos\\Create.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\AdminPedidos\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Shared\\Components\\CategoriaMenu\\Default.cshtml",
-      "TargetPath": "Views\\Shared\\Components\\CategoriaMenu\\Default.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminProdutos\\Delete.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\AdminProdutos\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Shared\\_Caroucel.cshtml",
-      "TargetPath": "Views\\Shared\\_Caroucel.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminProdutos\\Details.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\AdminProdutos\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Pedido\\CheckoutCompleto.cshtml",
-      "TargetPath": "Views\\Pedido\\CheckoutCompleto.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminCategorias\\Details.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\AdminCategorias\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminPedidos\\PedidoProdutos.cshtml",
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminPedidos\\PedidoProdutos.cshtml",
       "TargetPath": "Areas\\Admin\\Views\\AdminPedidos\\PedidoProdutos.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Pedido\\CheckoutCompleto.cshtml",
+      "TargetPath": "Views\\Pedido\\CheckoutCompleto.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Shared\\_Caroucel.cshtml",
+      "TargetPath": "Views\\Shared\\_Caroucel.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Shared\\Components\\CarrinhoCompraResumo\\Default.cshtml",
-      "TargetPath": "Views\\Shared\\Components\\CarrinhoCompraResumo\\Default.cshtml",
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Produto\\Details.cshtml",
+      "TargetPath": "Views\\Produto\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminProdutos\\Index.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\AdminProdutos\\Index.cshtml",
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Contato\\Index.cshtml",
-      "TargetPath": "Views\\Contato\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminCategorias\\Delete.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\AdminCategorias\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminPedidos\\Delete.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\AdminPedidos\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Account\\Logout.cshtml",
-      "TargetPath": "Views\\Account\\Logout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminCategorias\\Create.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\AdminCategorias\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Shared\\_ProdutoResumo.cshtml",
-      "TargetPath": "Views\\Shared\\_ProdutoResumo.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Produto\\List.cshtml",
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Produto\\List.cshtml",
       "TargetPath": "Views\\Produto\\List.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Admin\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Account\\Register.cshtml",
-      "TargetPath": "Views\\Account\\Register.cshtml",
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminCategorias\\Delete.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\AdminCategorias\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminCategorias\\Create.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\AdminCategorias\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
       "TargetPath": "Areas\\Admin\\Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Account\\Login.cshtml",
-      "TargetPath": "Views\\Account\\Login.cshtml",
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Account\\AccessDenied.cshtml",
-      "TargetPath": "Views\\Account\\AccessDenied.cshtml",
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminPedidos\\Create.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\AdminPedidos\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminPedidos\\Edit.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\AdminPedidos\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Areas\\Admin\\Views\\AdminProdutos\\Create.cshtml",
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminProdutos\\Create.cshtml",
       "TargetPath": "Areas\\Admin\\Views\\AdminProdutos\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Projeto_Site_Method\\ProjetoV2\\Views\\Produto\\Details.cshtml",
-      "TargetPath": "Views\\Produto\\Details.cshtml",
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminProdutos\\Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\AdminProdutos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\CarrinhoCompra\\Index.cshtml",
+      "TargetPath": "Views\\CarrinhoCompra\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminPedidos\\Delete.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\AdminPedidos\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminPedidos\\Details.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\AdminPedidos\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Contato\\Index.cshtml",
+      "TargetPath": "Views\\Contato\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminPedidos\\Edit.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\AdminPedidos\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Account\\Register.cshtml",
+      "TargetPath": "Views\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Pedido\\Checkout.cshtml",
+      "TargetPath": "Views\\Pedido\\Checkout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminPedidos\\PedidoNotFound.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\AdminPedidos\\PedidoNotFound.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Account\\AccessDenied.cshtml",
+      "TargetPath": "Views\\Account\\AccessDenied.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Shared\\_ProdutoResumo.cshtml",
+      "TargetPath": "Views\\Shared\\_ProdutoResumo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminProdutos\\Edit.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\AdminProdutos\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Account\\Login.cshtml",
+      "TargetPath": "Views\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminProdutos\\Details.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\AdminProdutos\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Account\\Logout.cshtml",
+      "TargetPath": "Views\\Account\\Logout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Shared\\Components\\CarrinhoCompraResumo\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\CarrinhoCompraResumo\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Views\\Shared\\Components\\CategoriaMenu\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\CategoriaMenu\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminCategorias\\Details.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\AdminCategorias\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminCategorias\\Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\AdminCategorias\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Richardhershon\\Documents\\CURSOS TI\\Para o GIT\\Pagina_Site_Vinhos_Mvc\\Areas\\Admin\\Views\\AdminProdutos\\Delete.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\AdminProdutos\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],

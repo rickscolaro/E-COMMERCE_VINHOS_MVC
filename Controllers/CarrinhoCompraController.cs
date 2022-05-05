@@ -29,7 +29,7 @@ namespace Projeto.Controllers {
                 CarrinhoCompra = _carrinhoCompra,
                 CarrinhoCompraTotal = _carrinhoCompra.GetCarrinhoCompraTotal(),
                 FreteTotal = _carrinhoCompra.GetFreteTotal(),
-                ValorFinal =_carrinhoCompra.GetValorFinal()
+                ValorFinal = _carrinhoCompra.GetValorFinal()
             };
 
             return View(carrinhoCompraVM);
@@ -42,6 +42,14 @@ namespace Projeto.Controllers {
             var produtoSelecionado = _iProdutoRepository.Produtos.FirstOrDefault(p => p.ProdutoId == produtoId);
 
             if (produtoSelecionado != null) {
+
+
+                // Verificar o estoque // Obs não resolve de retorno ao estoque o problema caso a venda não seja realizada ou o tempo de session do carrinho acabe
+                if (produtoSelecionado.EmEstoque == 0) {
+                    return RedirectToAction("ErroEstoque");
+                }
+                produtoSelecionado.EmEstoque--;// Diminui o estoque
+
 
                 _carrinhoCompra.AdicionarAoCarrinho(produtoSelecionado);
             }
@@ -58,6 +66,11 @@ namespace Projeto.Controllers {
                 _carrinhoCompra.RemoverDoCarrinho(produtoSelecionado);
             }
             return RedirectToAction("Index");
+        }
+
+        
+        public IActionResult ErroEstoque() {
+            return View();
         }
     }
 }

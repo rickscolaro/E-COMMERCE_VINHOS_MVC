@@ -7,6 +7,8 @@ dotnet add package Microsoft.EntityFrameworkCore.Tools
 
 dotnet add package Microsoft.EntityFrameworkCore.Design
 
+
+// Migrations
 dotnet ef migrations add "name"
 dotnet ef database update (criarBanco)
 dotnet ef migrations remove // remove a ultima migração

@@ -1,5 +1,4 @@
-﻿
-@model IEnumerable<Projeto.Models.Pedido>
+﻿@model IEnumerable<Projeto.Models.Pedido>
 @* @model ReflectionIT.Mvc.Paging.PagingList<LanchesMac.Models.Pedido> *@
 
 @{
@@ -9,19 +8,19 @@
 
 <form method="get" class="form-inline">
     @* <input name="filter" class="form-control" placeholder="filtro"
-           value="@Model.RouteValue["Filter"]" /> *@
+        value="@Model.RouteValue["Filter"]" /> *@
     @* <button type="submit" class="btn btn-info">
         <span class="glyphicon glyphicon-search" aria-hidden="true"></span> Procurar
-    </button> *@
+        </button> *@
 </form>
 
 @* Total de Pedidos : @Model.TotalRecordCount *@
 <div>
-  <vc:pager paging-list="@Model"></vc:pager>
+    <vc:pager paging-list="@Model"></vc:pager>
 </div>
 
 <p>
-    <a asp-action="Create" class="btn btn-info" >Criar Pedido</a>
+    <a asp-action="Create" class="btn btn-info">Criar Pedido</a>
 </p>
 <div class="row">
     <div class="col-md-12">
@@ -103,11 +102,45 @@
                         <td>
                             @Html.DisplayFor(modelItem => item.PedidoEntregueEm)
                         </td>
+
+
                         <td class="">
-                            <a asp-action="Edit" asp-route-id="@item.PedidoId">Editar</a> |
-                            <a asp-action="Details" asp-route-id="@item.PedidoId">Detalhes</a> |
-                            <a asp-action="Delete" asp-route-id="@item.PedidoId">Deletar</a> |
-                            <a asp-action="PedidoProdutos" asp-route-id="@item.PedidoId">Ver Produtos</a>
+                            <div class="dropdown">
+                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                    Alterações
+                                </button>
+                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+
+
+                                    <li>
+                                        <a asp-action="Edit" asp-route-id="@item.PedidoId" class="dropdown-item ">Editar</a>
+
+                                    </li>
+
+                                    <li>
+                                        <a asp-action="Details" asp-route-id="@item.PedidoId"
+                                        class="dropdown-item ">Detalhes</a>
+
+                                    </li>
+
+                                    <li>
+                                        <a asp-action="Delete" asp-route-id="@item.PedidoId"
+                                        class="dropdown-item ">Deletar</a>
+
+                                    </li>
+
+                                    <li>
+                                        <a asp-action="PedidoProdutos" asp-route-id="@item.PedidoId"
+                                        class="dropdown-item ">Ver
+                                            Produtos</a>
+
+                                    </li>
+
+
+                                </ul>
+                            </div>
+
                         </td>
                     </tr>
                 }
