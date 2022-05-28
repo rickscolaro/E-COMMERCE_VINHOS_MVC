@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
-namespace Projeto.Areas.Admin.Controllers {//Lanche
+namespace Projeto.Areas.Admin.Controllers {
 
     [Area("Admin")]
     [Authorize(Roles = "Admin")]

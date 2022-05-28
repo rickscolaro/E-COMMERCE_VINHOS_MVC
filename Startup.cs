@@ -34,7 +34,7 @@ public class Startup {
 
 
         // Registrando os Repositórios
-        // Injetando instacias nos contrutores
+        // Injetando instancias nos construtores
         services.AddTransient<IProdutoRepository, ProdutoRepository>();
         services.AddTransient<ICategoriaRepository, CategoriaRepository>();
 
@@ -54,16 +54,16 @@ public class Startup {
         });
 
 
-
-        //Fornece uma instancia de HttpContextAccessor
+        //Fornece uma instancia de HttpContextAccessor(uso da Session)
         services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
 
-        // Fornecendo instancia de CarrinhoCompra para ser injetada no construtor em CarrinhoCompraController
+        //Fornecendo instancia de CarrinhoCompra para ser injetada no construtor em CarrinhoCompraController
+        //gerando um carrinho automaticamente quando chamar o controller
         services.AddScoped(sp => CarrinhoCompra.GetCarrinho(sp));
 
 
-        //Configura o uso da Session
+        //Registra o uso da Session
         services.AddMemoryCache();
         services.AddSession();
     }
@@ -98,9 +98,7 @@ public class Startup {
         seedUserRoleInitial.SeedUsers();
 
 
-
-
-
+        // Ativar o Session
         app.UseSession();
 
         // Identity

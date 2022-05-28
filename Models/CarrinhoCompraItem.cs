@@ -13,7 +13,7 @@ namespace Projeto.Models {
         public int Quantidade { get; set; }
 
         //[StringLength(100)]
-        public string CarrinhoCompraId { get; set; }
+        public string CarrinhoCompraId { get; set; }// string GUID
 
     }
 }

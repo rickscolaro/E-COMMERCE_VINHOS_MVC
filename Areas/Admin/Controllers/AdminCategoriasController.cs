@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace LanchesMac.Areas.Admin.Controllers {
 
     [Area("Admin")]
@@ -54,7 +55,7 @@ namespace LanchesMac.Areas.Admin.Controllers {
             return View(categoria);
         }
 
-        // GET: Admin/AdminCategorias/Edit/5
+        // GET: Admin/AdminCategorias/Edit/id
         public async Task<IActionResult> Edit(int? id) {
             if (id == null) {
                 return NotFound();
@@ -67,7 +68,7 @@ namespace LanchesMac.Areas.Admin.Controllers {
             return View(categoria);
         }
 
-        // POST: Admin/AdminCategorias/Edit/5
+        // POST: Admin/AdminCategorias/Edit/id
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("CategoriaId,CategoriaNome,Descricao")] Categoria categoria) {
@@ -106,7 +107,7 @@ namespace LanchesMac.Areas.Admin.Controllers {
             return View(categoria);
         }
 
-        // POST: Admin/AdminCategorias/Delete/5
+        // POST: Admin/AdminCategorias/Delete/id
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id) {

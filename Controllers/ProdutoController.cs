@@ -19,15 +19,6 @@ namespace Projeto.Controllers {
 
         public IActionResult List(string categoria) {
 
-
-            // // var produtos = _iProdutoRepository.Produtos;
-            // // return View(produtos);
-
-            // var produtoListViewModel = new ProdutoListViewModel();
-            // produtoListViewModel.Produtos = _iProdutoRepository.Produtos;
-            // produtoListViewModel.CategoriaAtual = "Categoria Atual";
-
-
             IEnumerable<Produto> produtos;
             string categoriaAtual = string.Empty;
 
@@ -38,7 +29,6 @@ namespace Projeto.Controllers {
                 categoriaAtual = "Todos os produtos";
 
             } else {
-
 
                 produtos = _iProdutoRepository.Produtos
                            .Where(p => p.Categoria.CategoriaNome.Equals(categoria))

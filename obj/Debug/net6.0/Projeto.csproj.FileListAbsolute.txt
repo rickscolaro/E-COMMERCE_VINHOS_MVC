@@ -142,7 +142,6 @@ C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bi
 C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Projeto.deps.json
 C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Projeto.runtimeconfig.json
 C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Projeto.dll
-C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\ref\Projeto.dll
 C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Projeto.pdb
 C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Humanizer.dll
 C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
@@ -199,6 +198,7 @@ C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\ob
 C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\scopedcss\projectbundle\Projeto.bundle.scp.css
 C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\Projeto.csproj.CopyComplete
 C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\Projeto.dll
-C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\ref\Projeto.dll
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\refint\Projeto.dll
 C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\Projeto.pdb
 C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\Projeto.genruntimeconfig.cache
+C:\Users\Richardhershon\Documents\CURSOS TI\Para o GIT\Pagina_Site_Vinhos_Mvc\obj\Debug\net6.0\ref\Projeto.dll

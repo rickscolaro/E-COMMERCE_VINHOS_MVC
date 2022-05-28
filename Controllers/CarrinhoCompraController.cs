@@ -43,10 +43,9 @@ namespace Projeto.Controllers {
 
             if (produtoSelecionado != null) {
 
-
-                // Verificar o estoque // Obs não resolve de retorno ao estoque o problema caso a venda não seja realizada ou o tempo de session do carrinho acabe
+                // Verificar o estoque // Obs: não resolve o retorno ao estoque. A um problema caso a venda não seja realizada ou o tempo de session do carrinho acabe
                 if (produtoSelecionado.EmEstoque == 0) {
-                    return RedirectToAction("ErroEstoque");
+                    return RedirectToAction("ErroEstoque"); //Redireciona para o método ErroEstoque.
                 }
                 produtoSelecionado.EmEstoque--;// Diminui o estoque
 

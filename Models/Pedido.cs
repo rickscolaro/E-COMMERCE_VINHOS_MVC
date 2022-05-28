@@ -34,9 +34,9 @@ namespace Projeto.Models {
         public string Endereco2 { get; set; }
 
 
-        //[Required(ErrorMessage = "Informe o seu CEP")]
+        [Required(ErrorMessage = "Informe o seu CEP")]
         [Display(Name = "CEP")]
-        //[StringLength(10, MinimumLength = 8)]
+        [StringLength(10, MinimumLength = 8)]
         public string Cep { get; set; }
 
 
@@ -48,9 +48,9 @@ namespace Projeto.Models {
         public string Cidade { get; set; }
 
 
-        //[Required(ErrorMessage = "Informe o seu telefone")]
+        [Required(ErrorMessage = "Informe o seu telefone")]
         [StringLength(25)]
-        //[DataType(DataType.PhoneNumber)]
+        [DataType(DataType.PhoneNumber)]
         public string Telefone { get; set; }
 
 
@@ -63,7 +63,7 @@ namespace Projeto.Models {
 
 
         //[BindNever]
-        [ScaffoldColumn(false)]// Para nã aparecer na VIEW
+        [ScaffoldColumn(false)]// Para não aparecer na VIEW
         [Display(Name = "Total do Pedido")]
         public double PedidoTotal { get; set; }
 

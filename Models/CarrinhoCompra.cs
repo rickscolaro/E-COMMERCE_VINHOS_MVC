@@ -14,19 +14,17 @@ namespace Projeto.Models {
             _context = context;
         }
 
-        //Define as propriedades do Carrinho : Id e os Itens
         public string CarrinhoCompraId { get; set; }
 
         public List<CarrinhoCompraItem> CarrinhoCompraItens { get; set; }
 
 
-
         // Obter Carrinho da sessão
         public static CarrinhoCompra GetCarrinho(IServiceProvider services) {
 
-            //define uma sessão
+            //Define uma sessão
             ISession session =
-                services.GetRequiredService<IHttpContextAccessor>()?.HttpContext.Session;// Operador elvis?. Se for diferente de null obtem Session e retorna
+                services.GetRequiredService<IHttpContextAccessor>()?.HttpContext.Session;// Operador Elvis?. Se for diferente de null Obtem Session e retorna
 
             //Obtem um serviço do tipo do nosso contexto 
             var context = services.GetService<AppDbContext>();
@@ -34,10 +32,10 @@ namespace Projeto.Models {
             //Obtem ou gera o Id do carrinho
             string carrinhoId = session.GetString("CarrinhoId") ?? Guid.NewGuid().ToString();// Operador de coalescência nula. Se for diferente de null retorna valor se não gera um novo id
 
-            //atribui o id do carrinho na Sessão
+            //Atribui o id do carrinho na Sessão
             session.SetString("CarrinhoId", carrinhoId);
 
-            //retorna o carrinho com o contexto e o Id atribuido ou obtido
+            //Retorna o carrinho com o contexto e o Id atribuido ou obtido
             return new CarrinhoCompra(context) {
                 CarrinhoCompraId = carrinhoId
             };
@@ -47,6 +45,7 @@ namespace Projeto.Models {
 
         public void AdicionarAoCarrinho(Produto produto) {
 
+            // Verifica se o carrinho eo produto ja existem
             var carrinhoCompraItem = _context.CarrinhoCompraItens.SingleOrDefault(
                         s => s.Produto.ProdutoId == produto.ProdutoId && s.CarrinhoCompraId == CarrinhoCompraId);
 
@@ -97,14 +96,17 @@ namespace Projeto.Models {
         }
 
 
+        // Retorna todos os itens do carrinho
         public List<CarrinhoCompraItem> GetCarrinhoCompraItens() {
 
-            // se não existir vai obter todos os itens do carrinho
+            // Se não existir(null) vai obter todos os itens do carrinho
             return CarrinhoCompraItens ?? (CarrinhoCompraItens = _context.CarrinhoCompraItens
                     .Where(c => c.CarrinhoCompraId == CarrinhoCompraId)
                     .Include(s => s.Produto)
                     .ToList());
         }
+
+
 
         public void LimparCarrinho() {
 
@@ -129,7 +131,7 @@ namespace Projeto.Models {
         // Método de calculo do frete
         public double GetFreteTotal() {
 
-            var distancia = 250;// Distancia total do pedido
+            var distancia = 250;// Distancia total do pedido (Futuramente usar outro método para pegar esta variável)
 
             var frete = _context.CarrinhoCompraItens.Where(c => c.CarrinhoCompraId == CarrinhoCompraId)
                     .Select(c => c.Produto.Peso * c.Quantidade).Sum();
